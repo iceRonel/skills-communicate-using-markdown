@@ -14,3 +14,9 @@ $ mvn clean package
 ``` Java
 System.out.print("Hello world !");
 ```
+
+- [x] create a repo
+- [x] add file
+- [x] commit file
+- [ ] open a pull request
+- [ ] merge branch 
