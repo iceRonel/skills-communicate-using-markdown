@@ -6,3 +6,11 @@
 ###### markdown 6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ mvn clean package
+
+```
+``` Java
+System.out.print("Hello world !");
+```
